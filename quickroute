@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quick Route</title>
+    <link rel="stylesheet" href="./quickroute.css">
+</head>
+<body>
+    <nav>
+        <div>
+        <img class="banner-img" src="./images/download.jfif" alt="">
+        </div>
+        <div>
+            <h1>Quick Route</h1>
+        </div>
+        <ul>
+            <div><li><a href="#quickrouteone">Quick Route</a></li></div>
+            <div><li><a href="#ouraimone">Our Aim</a></li></div>
+            <div><li><a href="#contactone">Contact</a></li></div>
+        </ul>
+    </nav>
+    <div id="quickrouteone" class="container">
+        <img src="./images/worldmap.jfif" alt="">
+        <div class="bodypassage">
+            <h2>Welcome To Quick Route</h2>
+            <p>Quick route is an application to help you get to where you need to go</p>
+            <p>and to get back in the most efficient way</p>
+        </div>
+    </div>
+    <div>
+        <div id="ouraimone" class="ouraim">
+            <div>
+                <h2>Our Aim</h2>
+            </div>
+                <div class="our-aim-container">
+                    <div>
+                        <div class="inlineone">
+                            <img src="./images/adelaide map.jfif" alt="">
+                            <p>Travel all locations</p>
+                        </div>
+                        <div class="inlineone">
+                            <img src="./images/map locations.jfif" alt="">
+                            <p>Multiple Drops</p>
+                        </div>
+                        <div class="inlineone">
+                            <img src="./images/route locations.jfif" alt="">
+                            <p>Efficient Routing</p>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="inlinetwo">
+                            <img src="./images/truck delivery.jfif" alt="">
+                            <p>Straight to the customer</p>
+                        </div>
+                        <div class="inlinetwo">
+                            <img src="./images/happy customer.jfif" alt="">
+                            <p>Leaving the customer happy</p>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+    <footer>
+        <div id="contactone">
+            <h2>THE DARKN CORP</h2>
+            <div>
+                <h2>DARKN@THEDARKNHOUSE.NET</h2>
+                <h2>0432179495</h2>
+            </div>
+            <h2>copyright THE DARKN CORP 2022</h2>
+        </div>
+    </footer>
+</body>
+</html>
